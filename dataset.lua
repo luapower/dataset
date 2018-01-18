@@ -1,4 +1,7 @@
---in-memory datasets by Cosmin Apreutesei (unlicensed)
+
+--In-memory datasets.
+--Written by Cosmin Apreutesei. Public Domain.
+
 --features:
 -- row-level change tracking with the ability to apply, merge or cancel changes.
 -- apply changes with failure tracking and retry.
